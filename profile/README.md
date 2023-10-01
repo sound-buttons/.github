@@ -6,7 +6,7 @@
 
 ![Youtube](https://img.shields.io/static/v1?style=for-the-badge&message=YouTube&color=FF0000&logo=YouTube&logoColor=FFFFFF&label=) ![Azure Blob Storage](https://img.shields.io/static/v1?style=for-the-badge&message=Azure+Blob+Storage&color=0089D6&logo=Microsoft+Azure&logoColor=FFFFFF&label=) ![Angular](https://img.shields.io/static/v1?style=for-the-badge&message=Angular&color=DD0031&logo=Angular&logoColor=FFFFFF&label=) ![Azure Functions](https://img.shields.io/static/v1?style=for-the-badge&message=Azure+Functions&color=0062AD&logo=Azure+Functions&logoColor=FFFFFF&label=)
 
-此專案是一個 Vtuber 聲音按鈕網站的實作。  
+此專案是一個 Vtuber 聲音按鈕網站的實作，使用了資料分離式架構，使編輯內容只需撰寫 json 設定檔即可。  
 前端使用 Angular，後端則採用 Azure Functions，音檔存放於 Azure Blob Storage。  
 專案特色在於線上的音檔投稿系統，提交表單後能自動剪輯 Youtube 音訊並生成按鈕。
 
