@@ -37,11 +37,11 @@ Angular is used for the front-end, while Azure Functions are used for the back-e
 |---------------------------|-----------------------------------------------------------------|
 | Angular (Frontend)        | <https://github.com/sound-buttons/sound-buttons>                |
 | Main data for Website     | <https://github.com/sound-buttons/sound-buttons_configs>        |
-| Azure Funstions (Backend) | <https://github.com/sound-buttons/sound-buttons_upload-backend> |
+| Azure Functions (Backend) | <https://github.com/sound-buttons/sound-buttons_upload-backend> |
 
 ## License
 
-![GitHub](https://img.shields.io/github/license/sound-buttons/sound-buttons?style=for-the-badge)
+![License](https://img.shields.io/github/license/sound-buttons/sound-buttons?style=for-the-badge)
 
 ## Preview
 
