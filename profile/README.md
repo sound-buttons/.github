@@ -55,9 +55,8 @@ Angular is used for the front-end, while Azure Functions are used for the back-e
 ![search](https://github.com/sound-buttons/sound-buttons/assets/16995691/01e6f648-0765-4933-bd96-56f02745645f)
 
 ### Upload form
-![3](https://github.com/sound-buttons/.github/assets/16995691/814760ca-efd4-4899-881a-e106674fe6c8)
 
-![upload](https://github.com/sound-buttons/sound-buttons/assets/16995691/283871f8-f713-4371-88b5-04f347b586a6)
+![3](https://github.com/sound-buttons/.github/assets/16995691/814760ca-efd4-4899-881a-e106674fe6c8)
 
 ### i18n (Chinese, Japanese)
 
